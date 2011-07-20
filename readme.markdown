@@ -26,6 +26,7 @@ regex form filter
 * lettersOnly - validate only letter input
 * numbersOnly - validate only numeric input
 * postalCode - validate standard postal code format
+* imgUrl - validate image url
 
 ### notes
 
